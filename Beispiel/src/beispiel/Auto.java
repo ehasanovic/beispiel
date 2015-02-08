@@ -2,10 +2,10 @@ package beispiel;
 
 public class Auto 
 {
+
 	/**
-	 * klasse auto
 	 * 
-	 * 
+	 * klasse auto ist super
 	 * 
 	 */
 	private String name;
