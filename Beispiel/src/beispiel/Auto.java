@@ -7,6 +7,10 @@ public class Auto
 	{
 		this.name=name;
 	}
+	public Auto()
+	{
+		
+	}
 	@Override
 	public String toString()
 	{
