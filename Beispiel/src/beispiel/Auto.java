@@ -48,5 +48,8 @@ public class Auto
 		return true;
 	}
 	
-	
+	public void fahre()
+	{
+		//fahren...
+	}
 }
