@@ -57,9 +57,17 @@ public class Auto
 			return false;
 		return true;
 	}
+
+	public void bremse()
+	{
+		
+	}
+	
+
 	
 	public void fahre()
 	{
 		//fahren...
 	}
+
 }
