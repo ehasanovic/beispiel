@@ -69,5 +69,9 @@ public class Auto
 	{
 		//fahren...
 	}
+	public void test()
+	{
+		
+	}
 
 }
