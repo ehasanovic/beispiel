@@ -10,6 +10,7 @@ public class Auto
 	@Override
 	public String toString()
 	{
+		String a;
 		return "Auto: " + name + 100;
 	}
 }
