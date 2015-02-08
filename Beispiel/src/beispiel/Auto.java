@@ -10,6 +10,6 @@ public class Auto
 	@Override
 	public String toString()
 	{
-		return name;
+		return name + "Otto";
 	}
 }
