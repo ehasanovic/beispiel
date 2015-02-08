@@ -2,6 +2,12 @@ package beispiel;
 
 public class Auto 
 {
+	/**
+	 * klasse auto
+	 * 
+	 * 
+	 * 
+	 */
 	private String name;
 	public Auto(String name)
 	{
