@@ -17,6 +17,10 @@ public class Auto
 	{
 		
 	}
+	public void parke()
+	{
+		
+	}
 	@Override
 	public String toString()
 	{
