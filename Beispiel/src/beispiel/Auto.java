@@ -7,4 +7,9 @@ public class Auto
 	{
 		this.name=name;
 	}
+	@Override
+	public String toString()
+	{
+		return "Auto:" +name;
+	}
 }
