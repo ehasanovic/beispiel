@@ -9,6 +9,22 @@ public class Auto
 	 * 
 	 */
 	private String name;
+	private String modell;
+	private String typ;
+	
+	
+	public String getModell() {
+		return modell;
+	}
+	public void setModell(String modell) {
+		this.modell = modell;
+	}
+	public String getTyp() {
+		return typ;
+	}
+	public void setTyp(String typ) {
+		this.typ = typ;
+	}
 	public Auto(String name)
 	{
 		this.name=name;
