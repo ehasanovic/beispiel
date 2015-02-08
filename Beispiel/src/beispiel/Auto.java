@@ -12,6 +12,7 @@ public class Auto
 	{
 		String a;
 		return "Auto: " + name + 100;
+
 	}
 	public String getName() {
 		return name;
